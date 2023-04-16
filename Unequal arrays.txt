@@ -17,3 +17,4 @@ long long sum=0,ans=0;
             ans+=(abs(b[i]-d[i])/2);
         }
         return ans/2;
+        }
